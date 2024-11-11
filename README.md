@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="Welcome GIF" width="600">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Welcome Coding GIF" width="600">
 </p>
 
 <h1 align="center">Hi there, I'm Mohamed El-Morabet 👋</h1>
