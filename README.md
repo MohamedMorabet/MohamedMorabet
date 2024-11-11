@@ -74,9 +74,9 @@ Explore my other repositories for more!
 ## 💬 Let’s Connect!
 
 <p align="center">
-  📫 **Email**: [medmrbt72@gmail.com](mailto:medmrbt72@gmail.com) <br>
-  <a href="https://www.linkedin.com/in/mohamed-elmorabet">**LinkedIn**: linkedin.com/in/mohamed-elmorabet</a> <br>
-  <a href="https://x.com/Mohamed___Mrabt">**Twitter**: @Mohamed___Mrabt</a>
+  <strong>📫 Email:</strong> <a href="mailto:medmrbt72@gmail.com">medmrbt72@gmail.com</a><br>
+  <a href="https://www.linkedin.com/in/mohamed-elmorabet"><strong>LinkedIn:</strong> linkedin.com/in/mohamed-elmorabet</a><br>
+  <a href="https://x.com/Mohamed___Mrabt"><strong>Twitter:</strong> @Mohamed___Mrabt</a>
 </p>
 
 ---
