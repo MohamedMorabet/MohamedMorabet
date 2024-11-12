@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Welcome Coding GIF" width="600">
 </p>
 
-<h1 align="center">Hi there, I'm Mohamed El-Morabet 👋</h1>
+<h1 align="center">Hey there, I'm Mohamed El-Morabet! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/MohamedMorabet">
@@ -13,37 +13,37 @@
   </a>
 </p>
 
-<p align="center">I'm Mohamed, a 21-year-old <strong>Full Stack Developer</strong> in training at <strong>42 School (1337)</strong> in Tétouan, Morocco. I'm passionate about developing scalable applications, writing clean code, and exploring new technologies. Here’s a bit more about me:</p>
+<p align="center">
+  <em>Full Stack Developer in training at <strong>42 School (1337)</strong>, passionate about building scalable, efficient, and impactful software solutions.</em>
+</p>
 
 ---
 
-## 🌐 About Me
+## 🌍 About Me
 
-- 🔭 Currently working on improving my **C skills** alongside full-stack development.
-- 🌱 Expanding my expertise in backend and cloud-based technologies.
-- 🎓 A student at **42 School (1337)** focused on problem-solving and deep coding skills.
-- ⚡ Fun fact: I enjoy tackling complex problems and contributing to open-source!
+- 🛠️ **Learning by Doing**: Constantly improving my **C skills** and diving deeper into **full-stack development**.
+- 🚀 **Exploring Backend & Cloud**: Continuously expanding my expertise in backend and cloud technologies.
+- 🎓 **Educated at 42 School (1337)**: Known for its intense, peer-driven curriculum focused on problem-solving and collaboration.
+- 🎉 **Fun Fact**: Nothing excites me more than taking on challenging problems and contributing to open-source projects!
 
 ---
 
-## 🛠️ Tech Stack
-
-Here’s a quick overview of the tools and technologies I use regularly:
+## 💻 My Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Code-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Code-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Code-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Framework-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Framework-Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Platform-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Framework-Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Language-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Database-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Database-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Tool-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Tool-Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
 ---
@@ -57,21 +57,21 @@ Here’s a quick overview of the tools and technologies I use regularly:
 
 ---
 
-## 🗂️ Featured Projects
+## 🚀 Featured Projects
 
-Here are some projects that showcase my skills and progress as a developer:
+Here’s a curated selection of my projects that represent my skills and progress as a developer:
 
-1. **[GARAGISTE](https://github.com/MohamedMorabet/GARAGISTE)** - A Laravel project focused on building a garage management system with custom Blade templates and robust backend capabilities.
-2. **[Car-rental](https://github.com/MohamedMorabet/Car-rental)** - A car rental application built with TypeScript, implementing booking features and responsive design.
-3. **[alx-pre_course](https://github.com/MohamedMorabet/alx-pre_course)** - Initial repository for my ALX training, where I began my journey into full-stack development.
-4. **[alx-zero_day](https://github.com/MohamedMorabet/alx-zero_day)** - Another project from ALX training focusing on basic shell scripting and foundational software concepts.
-5. **[alx-system_engineering-devops](https://github.com/MohamedMorabet/alx-system_engineering-devops)** - A repository with DevOps practices, including shell scripts and system configurations.
+1. **[GARAGISTE](https://github.com/MohamedMorabet/GARAGISTE)** - A robust garage management system built with Laravel, featuring custom Blade templates and backend functionalities.
+2. **[Car-rental](https://github.com/MohamedMorabet/Car-rental)** - A car rental application with TypeScript, featuring booking, responsive design, and more.
+3. **[alx-pre_course](https://github.com/MohamedMorabet/alx-pre_course)** - The beginning of my journey into full-stack development through ALX training.
+4. **[alx-zero_day](https://github.com/MohamedMorabet/alx-zero_day)** - My early experiences with shell scripting and foundational software concepts.
+5. **[alx-system_engineering-devops](https://github.com/MohamedMorabet/alx-system_engineering-devops)** - An introduction to DevOps practices, including shell scripting and configuration management.
 
-Explore my other repositories for more!
+🔍 Check out my other repositories for more exciting projects!
 
 ---
 
-## 💬 Let’s Connect!
+## 🌐 Connect with Me
 
 <p align="center">
   <strong>📫 Email:</strong> <a href="mailto:medmrbt72@gmail.com">medmrbt72@gmail.com</a><br>
@@ -85,4 +85,6 @@ Explore my other repositories for more!
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding GIF" width="200">
 </p>
 
-<p align="center">Thanks for stopping by! I’m always open to new connections, projects, and collaboration opportunities. 😊</p>
+<p align="center">
+  Thanks for visiting! I’m always open to new connections, projects, and collaboration opportunities. 😊
+</p>
