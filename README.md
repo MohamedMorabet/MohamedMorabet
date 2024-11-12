@@ -70,9 +70,9 @@ A glimpse into some of the work I’m most proud of. Explore my repositories for
 
 1. **[GARAGISTE](https://github.com/MohamedMorabet/GARAGISTE)** - A garage management system built with Laravel, featuring custom Blade templates and backend capabilities.
 2. **[Car-rental](https://github.com/MohamedMorabet/Car-rental)** - A car rental application with TypeScript, booking functionalities, and a responsive design.
-3. **[alx-pre_course](https://github.com/MohamedMorabet/alx-pre_course)** - My initial repository for ALX training, marking the start of my full-stack journey.
-4. **[alx-zero_day](https://github.com/MohamedMorabet/alx-zero_day)** - Focused on shell scripting and foundational software concepts.
-5. **[alx-system_engineering-devops](https://github.com/MohamedMorabet/alx-system_engineering-devops)** - DevOps practices with shell scripting and system configurations.
+...
+..
+.
 
 ---
 
