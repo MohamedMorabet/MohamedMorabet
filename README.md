@@ -69,10 +69,10 @@
 A glimpse into some of the work I’m most proud of. Explore my repositories for more!
 
 1. **[GARAGISTE](https://github.com/MohamedMorabet/GARAGISTE)** - A garage management system built with Laravel, featuring custom Blade templates and backend capabilities.
-2. **[Car-rental](https://github.com/MohamedMorabet/Car-rental)** - A car rental application with TypeScript, booking functionalities, and a responsive design.
-...
-..
-.
+2. **[Car-rental](https://github.com/MohamedMorabet/Car-rental)** - A car rental application with TypeScript, booking functionalities, and a responsive design. <br />
+... <br />
+.. <br />
+. <br />
 
 ---
 
