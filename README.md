@@ -1,6 +1,6 @@
 <p align="center">
-  //<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Welcome Coding GIF" width="600">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giffiles.alphacoders.com/221/221253.gif)" alt="Welcome Coding GIF" width="600">
+  /*<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Welcome Coding GIF" width="600">*/
+  <img src="https://giffiles.alphacoders.com/221/221253.gif" alt="Welcome Coding GIF" width="600">
   
 </p>
 
