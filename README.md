@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Welcome Coding GIF" width="600">
-  <img src="https://i.pinimg.com/originals/33/bd/d7/33bdd73f8ed677ef20a71935341b5c22.gif" alt="Welcome Coding GIF" width="600">
+  <img src="https://64.media.tumblr.com/c1b19eebff75217530ee9b9c119ebcaa/e5876a3350371088-56/s540x810/ae4d7a4def43e43ab1801de418e87be31c61dcaf.gifv" alt="Welcome Coding GIF" width="600">
   
 </p>
 
