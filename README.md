@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/c1b19eebff75217530ee9b9c119ebcaa/e5876a3350371088-56/s540x810/ae4d7a4def43e43ab1801de418e87be31c61dcaf.gifv" alt="Welcome Coding GIF" width="600">
+  <img src="https://64.media.tumblr.com/c1b19eebff75217530ee9b9c119ebcaa/e5876a3350371088-56/s540x810/ae4d7a4def43e43ab1801de418e87be31c61dcaf.gif" alt="Welcome Coding GIF" width="600">
 </p>
 
 <h1 align="center">Hi, I'm Mohamed El-Morabet 👋</h1>
