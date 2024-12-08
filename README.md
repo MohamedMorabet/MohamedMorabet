@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/c1b19eebff75217530ee9b9c119ebcaa/e5876a3350371088-56/s540x810/ae4d7a4def43e43ab1801de418e87be31c61dcaf.gif" alt="Welcome Coding GIF" width="600">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F522276888015588658%2F&psig=AOvVaw1sjS74XDA2Cxt2D4HaK_Pq&ust=1733753177882000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIj9q4SsmIoDFQAAAAAdAAAAABBF" alt="Welcome Coding GIF" width="600">
+  <img src="https://i.pinimg.com/originals/32/c7/4c/32c74c10a76f90741ec78ab93cd7c7e6.gif" alt="Welcome Coding GIF" width="600">
   
 </p>
 
