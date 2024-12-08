@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/c1b19eebff75217530ee9b9c119ebcaa/e5876a3350371088-56/s540x810/ae4d7a4def43e43ab1801de418e87be31c61dcaf.gif" alt="Welcome Coding GIF" width="0" height="0">
-  <img src="[https://64.media.tumblr.com/c1b19eebff75217530ee9b9c119ebcaa/e5876a3350371088-56/s540x810/ae4d7a4def43e43ab1801de418e87be31c61dcaf.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fone-piece%2Fpage%2Fblog%2Ftop-5-saddest-one-piece-moments%2FDZ0Y_V3IPuLVWB6KGbpBQNgJVXB5Yrm6jV&psig=AOvVaw2QXikXaJhPCEOb0e8i6apJ&ust=1733752809024000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNixktSqmIoDFQAAAAAdAAAAABA4)" alt="Welcome Coding GIF" width="600">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fluffy-gif-luffy-discover-share-gifs--278519558197402050%2F&psig=AOvVaw2QXikXaJhPCEOb0e8i6apJ&ust=1733752809024000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCNixktSqmIoDFQAAAAAdAAAAABDjAQ" alt="Welcome Coding GIF" width="600">
   
 </p>
 
