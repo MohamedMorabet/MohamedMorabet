@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Mohamed El-Morabet 👋</h1>
-https://badge.mediaplus.ma/kettlebells/mel-mora
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/mel-mora" alt="mel-mora's 42 stats" /></a>
 <p align="center">
   <a href="https://github.com/MohamedMorabet">
     <img src="https://img.shields.io/github/followers/MohamedMorabet?label=Follow&style=social" alt="GitHub followers">
