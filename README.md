@@ -3,8 +3,8 @@
   <img src="https://i.pinimg.com/originals/32/c7/4c/32c74c10a76f90741ec78ab93cd7c7e6.gif" alt="Welcome Coding GIF" width="0">
   
 </p>
-<div align="center">  
 <h1 align="center">Hi, I'm Mohamed El-Morabet 👋</h1>
+<div align="center">  
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/mel-mora" alt="mel-mora's 42 stats" /></a>
 <p align="center">
   <a href="https://github.com/MohamedMorabet">
