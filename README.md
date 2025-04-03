@@ -21,14 +21,6 @@
 I’m a 21-year-old software engineer and full stack developer currently honing my craft at **42 School (1337)** in Tétouan, Morocco. With a deep passion for problem-solving and coding excellence, I immerse myself in both the intricacies of low-level C programming and the expansive realms of modern web development.
 
 I continuously explore new technologies and contribute to open-source projects, ensuring that my skill set evolves with the ever-changing landscape of the tech world.  
-### Reputable Sources
-
-- **MDN Web Docs:** A trusted resource for web development and best practices.  
-  [MDN Web Docs](https://developer.mozilla.org)
-
-- **GitHub Documentation:** Comprehensive guides on project management and repository best practices.  
-  [GitHub Docs](https://docs.github.com/en)
-
 ---
 
 ## 💻 Technical Skillset
