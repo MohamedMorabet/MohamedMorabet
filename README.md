@@ -94,8 +94,6 @@ A comprehensive garage management system built with Laravel. It features custom 
 ### 🚙 [Car-rental](https://github.com/MohamedMorabet/Car-rental)
 A dynamic car rental application developed using TypeScript. This project highlights my proficiency in building responsive, user-friendly interfaces and efficient booking systems.
 
-For more details on project management best practices, check out [GitHub’s guide on project documentation](https://docs.github.com/en) :contentReference[oaicite:1]{index=1}
-
 ---
 
 ## 💼 Developer Snapshot
@@ -122,7 +120,7 @@ I’m always open to new connections, collaborations, and exciting opportunities
 </p>
 
 <div align="center">  
-**Crafting code with passion and precision – one line at a time.**
+  Crafting code with passion and precision – one line at a time.
 </div>
 <p align="center" width="200">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Daring and Powerful Coding Animation" width="600">
