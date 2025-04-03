@@ -125,14 +125,58 @@ I’m always open to new connections, collaborations, and exciting opportunities
 
 ---
 
-## 🧩 Challenge Corner
+## 🤔 Developer Riddles
 
-### 🔍 Coding Puzzle
-**What is the output of the following JavaScript snippet?**
+These short questions may look simple at first glance, but they hide intriguing complexities that every developer encounters.
 
-```javascript
-console.log(0.1 + 0.2 === 0.3);
-```
+---
+
+### **Riddle 1: The Unstable Equality**
+**Question:**  
+Why does `NaN === NaN` evaluate to false in JavaScript?
+
+<details>
+  <summary>Contemplate Answer</summary>
+  
+  JavaScript follows the IEEE 754 standard for floating-point arithmetic, which defines NaN (Not a Number) as not equal to any value—including itself.
+</details>
+
+---
+
+### **Riddle 2: The Invisible Reference**
+**Question:**  
+Why do two objects with identical content often fail a strict equality check?
+
+<details>
+  <summary>Contemplate Answer</summary>
+  
+  In many languages, strict equality compares object references (their locations in memory), not the actual content. Thus, two separate objects with the same properties are considered different.
+</details>
+
+---
+
+### **Riddle 3: The Paradox of Recursion**
+**Question:**  
+How can a recursive function be both a powerful solution and a potential pitfall?
+
+<details>
+  <summary>Contemplate Answer</summary>
+  
+  Recursion breaks down problems elegantly by calling itself with smaller inputs. However, without a proper base case, it can lead to infinite loops or stack overflow errors.
+</details>
+
+---
+
+### **Riddle 4: The Ambiguous Type**
+**Question:**  
+Why does the expression `'0' == 0` evaluate to true in some languages but not in others?
+
+<details>
+  <summary>Contemplate Answer</summary>
+  
+  This behavior stems from type coercion. In loosely typed languages like JavaScript, `'0'` is converted to a number before comparison, making the equality hold. Strictly typed languages avoid such implicit conversions.
+</details>
+
 <p align="center" width="200">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Daring and Powerful Coding Animation" width="600">
 </p>
