@@ -121,9 +121,11 @@ I’m always open to new connections, collaborations, and exciting opportunities
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Let's Connect" width="200">
 </p>
 
+<div align="center">  
+*Crafting code with passion and precision – one line at a time.*
+</div>
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Daring and Powerful Coding Animation" width="600">
 </p>
 
-*Crafting code with passion and precision – one line at a time.*
