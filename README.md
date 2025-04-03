@@ -122,6 +122,17 @@ I’m always open to new connections, collaborations, and exciting opportunities
 <div align="center">  
   Crafting code with passion and precision – one line at a time.
 </div>
+
+---
+
+## 🧩 Challenge Corner
+
+### 🔍 Coding Puzzle
+**What is the output of the following JavaScript snippet?**
+
+```javascript
+console.log(0.1 + 0.2 === 0.3);
+```
 <p align="center" width="200">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Daring and Powerful Coding Animation" width="600">
 </p>
