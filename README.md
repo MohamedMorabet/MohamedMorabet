@@ -122,9 +122,8 @@ I’m always open to new connections, collaborations, and exciting opportunities
 </p>
 
 <div align="center">  
-*Crafting code with passion and precision – one line at a time.*
+**Crafting code with passion and precision – one line at a time.**
 </div>
----
 <p align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Daring and Powerful Coding Animation" width="600">
 </p>
