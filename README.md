@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">Mohamed El-Morabet</h1>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 <div align="center">
   <a href="https://profile.intra.42.fr/users/mel-mora">
     <img src="https://badge.mediaplus.ma/darkblue/mel-mora" alt="mel-mora's 42 stats" />
   </a>
 </div>
-<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
   <strong>Passionate about crafting robust solutions through code, innovation, and continuous learning.</strong>
