@@ -6,8 +6,8 @@
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
+  <a href="https://profile.intra.42.fr/users/mel-mora"><img src="https://badge.mediaplus.ma/darkblue/mel-mora" alt="mel-mora's 42 stats" /></a>
   <strong>Passionate about crafting robust solutions through code, innovation, and continuous learning.</strong>
-  <a href="https://profile.intra.42.fr/users/mel-mora"><img src="https://badge.mediaplus.ma/kettlebells/mel-mora" alt="mel-mora's 42 stats" /></a>
 </p>
 
 ---
@@ -62,11 +62,13 @@ For more details on project management best practices, check out [GitHub’s gui
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Developer Snapshot
+
+*An insight into my coding languages and overall contributions on GitHub.*
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedMorabet&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMorabet&theme=radical" alt="GitHub Streak">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMorabet&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedMorabet&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
 ---
