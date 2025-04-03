@@ -142,18 +142,21 @@ Why do programmers often mix up Halloween and Christmas?
 
 ---
 
-### **Insight 2: The Debugging Detective**
-**Question:**  
-If debugging were a crime thriller, what would its tagline be?
-
-<details>
-  <summary>Answer</summary>
-  "In a world full of bugs, only the keenest minds can uncover the hidden culprit."
-</details>
+### **Insight 2: The Oldest "Hello, World!"**
+**Info:**  
+Did you know? The first recorded instance of a "Hello, World!" program was in a book published in 1978: The C Programming Language by Brian Kernighan and Dennis Ritchie. It became the universal way to introduce programming languages!
 
 ---
 
-### **Insight 3: The Origin of "Bug"**
+### **Insight 3: The First Computer Virus Was... Kind of Polite?**
+**Info:**  
+Did you know? The first-ever computer virus, "Creeper", was created in 1971. But instead of causing damage, it just displayed a message:
+
+"I’M THE CREEPER, CATCH ME IF YOU CAN!" 👀💨
+
+---
+
+### **Insight 4: The Origin of "Bug"**
 **Info:**  
 Did you know? The term "bug" was popularized in 1947 when a real moth was discovered causing havoc in a computer. This quirky incident gave birth to one of the most enduring pieces of developer lingo.
  
