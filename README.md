@@ -1,87 +1,87 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" alt="Coding GIF" width="600">
+  <img src="https://64.media.tumblr.com/c1b19eebff75217530ee9b9c119ebcaa/e5876a3350371088-56/s540x810/ae4d7a4def43e43ab1801de418e87be31c61dcaf.gif" alt="Coding in Action" width="600">
 </p>
 
-<h1 align="center">👋 Hello, I'm Mohamed El-Morabet</h1>
+<h1 align="center">Mohamed El-Morabet</h1>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <em>
-    ✨ Passionate <strong>Full Stack Developer</strong> at <strong>42 School (1337)</strong>, thriving on innovation, clean code, and meaningful problem-solving. 🚀
-  </em>
-</p>
-
-<div align="center">
-  <a href="https://profile.intra.42.fr/users/mel-mora"><img src="https://badge.mediaplus.ma/black/mel-mora" alt="42 Profile"></a>
-  <a href="https://github.com/MohamedMorabet"><img src="https://img.shields.io/github/followers/MohamedMorabet?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="https://linkedin.com/in/mohamed-elmorabet"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
-</div>
-
----
-
-## 🚀 **Who Am I?**
-- 🎓 Full Stack Developer from **42 School (1337)**, based in Tétouan, Morocco 🇲🇦.
-- 🔧 Passionate about crafting high-quality code and robust applications.
-- 🌱 Lifelong learner, curious and proactive in exploring emerging technologies.
-- 🚀 Open-source enthusiast who enjoys collaborative problem-solving.
-
----
-
-## 🛠️ **My Tech Toolbox**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <strong>Passionate about crafting robust solutions through code, innovation, and continuous learning.</strong>
 </p>
 
 ---
 
-## 📊 **GitHub Activity**
+## 🚀 About Me
+
+I’m a 21-year-old software engineer and full stack developer currently honing my craft at **42 School (1337)** in Tétouan, Morocco. With a deep passion for problem-solving and coding excellence, I immerse myself in both the intricacies of low-level C programming and the expansive realms of modern web development.
+
+I continuously explore new technologies and contribute to open-source projects, ensuring that my skill set evolves with the ever-changing landscape of the tech world.  
+[Learn more about effective software engineering practices on MDN Web Docs](https://developer.mozilla.org) :contentReference[oaicite:0]{index=0}
+
+---
+
+## 💻 Technical Skillset
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedMorabet&show_icons=true&theme=merko" alt="GitHub Stats">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMorabet&theme=merko" alt="GitHub Streak">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  
+  <!-- Backend & Databases -->
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
 ---
 
-## 🌟 **Featured Projects**
+## 🛠 Professional Projects
 
-### 🛠️ [GARAGISTE](https://github.com/MohamedMorabet/GARAGISTE)
-> 🔸 Garage Management System with Laravel, Blade templating, and efficient database handling.
+Here are a few projects that showcase my commitment to excellence and innovative problem-solving:
 
-### 🚗 [Car-rental](https://github.com/MohamedMorabet/Car-rental)
-> 🔸 Interactive Car Rental Web App developed in TypeScript with dynamic booking functionalities.
+### 🚗 [GARAGISTE](https://github.com/MohamedMorabet/GARAGISTE)
+A comprehensive garage management system built with Laravel. It features custom Blade templates and robust backend functionality designed for real-world applications.
 
----
+### 🚙 [Car-rental](https://github.com/MohamedMorabet/Car-rental)
+A dynamic car rental application developed using TypeScript. This project highlights my proficiency in building responsive, user-friendly interfaces and efficient booking systems.
 
-## 📬 **Get in Touch**
-<div align="center">
-  📧 [medmrbt72@gmail.com](mailto:medmrbt72@gmail.com)<br>
-  💼 [LinkedIn](https://www.linkedin.com/in/mohamed-elmorabet) • 🐦 [Twitter](https://x.com/Mohamed___Mrabt)
-</div>
+For more details on project management best practices, check out [GitHub’s guide on project documentation](https://docs.github.com/en) :contentReference[oaicite:1]{index=1}
 
 ---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="Coding GIF" width="200"><br>
-  <strong>Thanks for stopping by!</strong><br>
-  🌟 Always open for collaborations, innovative projects, or just to connect! 🌟
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedMorabet&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMorabet&theme=radical" alt="GitHub Streak">
 </p>
+
+---
+
+## 📬 Connect with Me
+
+I’m always open to new connections, collaborations, and exciting opportunities. Feel free to reach out via:
+
+- **Email:** [medmrbt72@gmail.com](mailto:medmrbt72@gmail.com)
+- **LinkedIn:** [Mohamed El-Morabet](https://www.linkedin.com/in/mohamed-elmorabet)
+- **Twitter:** [@Mohamed___Mrabt](https://x.com/Mohamed___Mrabt)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Let's Connect" width="200">
+</p>
+
+---
+
+*Crafting code with passion and precision – one line at a time.*
