@@ -177,7 +177,19 @@ Why does the expression `'0' == 0` evaluate to true in some languages but not in
   This behavior stems from type coercion. In loosely typed languages like JavaScript, `'0'` is converted to a number before comparison, making the equality hold. Strictly typed languages avoid such implicit conversions.
 </details>
 
+---
+
+### **Riddle 5: God-Level Paradox**
+**Question:**  
+How do Gödel's Incompleteness Theorems and Turing's Halting Problem collectively limit the capabilities of fully automated software verification systems?
+
+<details>
+  <summary>Contemplate Answer</summary>
+
+  Gödel's Incompleteness Theorems show that in any sufficiently expressive and consistent formal system, there are true statements that cannot be proven within the system. Complementing this, Turing's Halting Problem proves that no algorithm can decide for every program-input pair whether the program will eventually halt.  
+  Combined, these results imply that any automated verification system will inherently face limitations—it cannot be both complete and sound. There will always be programs or properties that such a system cannot conclusively verify, revealing a fundamental barrier in fully automated software correctness.
+</details>
+
 <p align="center" width="200">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Daring and Powerful Coding Animation" width="600">
 </p>
-
