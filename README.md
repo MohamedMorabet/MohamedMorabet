@@ -123,6 +123,7 @@ I’m always open to new connections, collaborations, and exciting opportunities
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" alt="Dynamic Coding Animation" width="600">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Daring and Powerful Coding Animation" width="600">
 </p>
+
 *Crafting code with passion and precision – one line at a time.*
