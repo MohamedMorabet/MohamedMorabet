@@ -7,6 +7,7 @@
 
 <p align="center">
   <strong>Passionate about crafting robust solutions through code, innovation, and continuous learning.</strong>
+  <a href="https://profile.intra.42.fr/users/mel-mora"><img src="https://badge.mediaplus.ma/kettlebells/mel-mora" alt="mel-mora's 42 stats" /></a>
 </p>
 
 ---
