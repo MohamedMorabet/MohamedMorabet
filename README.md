@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 <div align="center">
   <a href="https://profile.intra.42.fr/users/mel-mora">
-    <img src="https://badge.mediaplus.ma/darkblue/mel-mora" alt="mel-mora's 42 stats" />
+    <img src="https://badge.mediaplus.ma/black/mel-mora" alt="mel-mora's 42 stats" />
   </a>
 </div>
 
