@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I’m a 21-year-old software engineer and full stack developer currently honing my craft at **42 School (1337)** in Tétouan, Morocco. With a deep passion for problem-solving and coding excellence, I immerse myself in both the intricacies of low-level C programming and the expansive realms of modern web development.
+I’m a 22-year-old software engineer and full stack developer currently honing my craft at **42 School (1337)** in Tétouan, Morocco. With a deep passion for problem-solving and coding excellence, I immerse myself in both the intricacies of low-level C programming and the expansive realms of modern web development.
 
 I continuously explore new technologies and contribute to open-source projects, ensuring that my skill set evolves with the ever-changing landscape of the tech world.  
 
