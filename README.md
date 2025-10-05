@@ -31,6 +31,20 @@ I believe that strong engineering is a craft — one that lives at the crossroad
 
 ---
 
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="mailto:medmrbt72@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-elmorabet"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Mohamed___Mrabt"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Let's Connect" width="200">
+</p>
+
+---
+
 ## 🧠 Tech Stack
 
 ### 💬 **Languages**
@@ -112,20 +126,6 @@ From API endpoints to memory allocation, secure design and predictable behavior 
 
 ### 🧪 **Iterate, Measure, Improve**
 Great engineering is never “done.” Each iteration is an opportunity to refine, optimize, and learn.
-
----
-
-## 🌍 Connect with Me
-
-<p align="center">
-  <a href="mailto:medmrbt72@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-elmorabet"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Mohamed___Mrabt"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Let's Connect" width="200">
-</p>
 
 ---
 
