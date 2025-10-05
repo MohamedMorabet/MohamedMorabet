@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <strong>Passionate about designing scalable, elegant, and impactful digital solutions through clean code, modern architecture, and continuous learning.</strong>
+  <strong>Building reliable, scalable, and human-centered digital systems through clean architecture, collaboration, and relentless curiosity.</strong>
 </p>
 
 ---
@@ -24,9 +24,10 @@
 Hey there 👋  
 I’m **Mohamed**, a 22-year-old software engineer and full-stack developer currently studying at **42 School (1337)** in Tétouan, Morocco.  
 
-I thrive at the intersection of **low-level engineering** (C, system design) and **modern web development** (React, Node.js, Laravel). My approach is simple — write clean code, build scalable systems, and never stop learning.
+My journey blends **low-level systems programming** (C, memory management, data structures) with **modern web technologies** (React, Node.js, Laravel).  
+I love transforming complex problems into clean, efficient solutions that make technology feel effortless.
 
-🧩 I’m constantly experimenting with new technologies, contributing to open-source, and refining my craft through real-world projects and collaborative environments.
+I believe that strong engineering is a craft — one that lives at the crossroads of logic, creativity, and continuous learning.
 
 ---
 
@@ -82,6 +83,24 @@ I thrive at the intersection of **low-level engineering** (C, system design) and
 
 ---
 
+## 💡 Engineering Philosophy
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson
+
+### 🧭 **Code as Communication**
+Code isn’t just logic — it’s a language shared between engineers. Writing expressive, maintainable code means respecting the next developer who reads it (often, your future self).
+
+### ⚙️ **Systems Thinking**
+Every feature lives within an ecosystem. I approach design by understanding dependencies, scalability, and the balance between performance and clarity.
+
+### 🔒 **Security & Reliability First**
+From API endpoints to memory allocation, secure design and predictable behavior aren’t afterthoughts — they’re part of the architecture from day one.
+
+### 🧪 **Iterate, Measure, Improve**
+Great engineering is never “done.” Each iteration is an opportunity to refine, optimize, and learn.
+
+---
+
 ## 🌍 Connect with Me
 
 <p align="center">
@@ -93,45 +112,6 @@ I thrive at the intersection of **low-level engineering** (C, system design) and
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Let's Connect" width="200">
 </p>
-
----
-
-## 🧩 Developer Trivia
-
-> *Because great engineers are lifelong learners — and a bit of humor never hurts.*
-
-### 🎃 **The Halloween–Christmas Paradox**
-> Why do programmers mix up Halloween and Christmas?  
-> Because **Oct 31 == Dec 25** 🎃🎄
-
-### 🦠 **The First Virus Was… Polite?**
-> In 1971, “Creeper” became the first computer virus, displaying:  
-> *“I’M THE CREEPER, CATCH ME IF YOU CAN!”*
-
-### 🦋 **Where “Bug” Came From**
-> The term *bug* originated in 1947 when an actual moth caused a malfunction in a computer — talk about *debugging* 🪲
-
----
-
-## 🧠 Thought-Provoking Riddles
-
-> Deep reflections from the logic-driven world of programming.
-
-### 🧩 **NaN ≠ NaN**
-`NaN === NaN` is false because IEEE 754 defines NaN as *unequal to everything*, even itself.
-
-### 🧱 **Identical but Not Equal**
-Two objects with identical content can fail equality checks because they occupy different memory references.
-
-### 🔁 **Recursion’s Dual Nature**
-Recursion elegantly solves problems — until it infinitely loops without a base case and brings your stack down 💥
-
-### 🔢 **Loose Typing Trap**
-`'0' == 0` is true in JavaScript due to type coercion, but false in strictly typed languages.
-
-### 🧮 **Gödel & Turing’s Paradox**
-No algorithm can perfectly verify all other algorithms.  
-Gödel’s incompleteness + Turing’s halting problem = **fundamental limits of computation**.
 
 ---
 
