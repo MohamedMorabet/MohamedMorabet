@@ -66,11 +66,25 @@ I believe that strong engineering is a craft — one that lives at the crossroad
 
 ## 💼 Projects
 
+Here are a few featured projects that reflect my journey from **full-stack development** to **systems programming**:
+
+
 ### 🚗 [GARAGISTE](https://github.com/MohamedMorabet/GARAGISTE)
 > A full-featured **garage management system** built with **Laravel**, integrating custom Blade templates and real-world business logic.
 
 ### 🚙 [Car-Rental](https://github.com/MohamedMorabet/Car-rental)
 > A **dynamic car rental application** in **TypeScript**, featuring responsive design, smart booking logic, and scalable architecture.
+
+### 🧠 [42_Minishell](https://github.com/MohamedMorabet/42_Minishell)
+> A minimalist shell inspired by Bash — built entirely in **C**, focusing on **process management**, **signals**, **I/O redirection**, and **command parsing**.  
+> Designed as part of the 42 curriculum to master low-level system programming and UNIX internals.
+
+### 🧩 [42-Cub3D](https://github.com/MohamedMorabet/42-Cub3D)
+> A **3D game engine** implemented from scratch in **C**, using **raycasting** (like the classic Wolfenstein 3D).  
+> Demonstrates deep understanding of **graphics programming**, **memory management**, and **performance optimization**.
+
+> 💡 *You can explore more of my projects and ongoing experiments directly on my GitHub profile:*  
+> [👉 MohamedMorabet on GitHub](https://github.com/MohamedMorabet?tab=repositories)
 
 ---
 
