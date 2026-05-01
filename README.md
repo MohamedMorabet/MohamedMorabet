@@ -153,8 +153,8 @@ Dynamic rental application with smart booking logic, responsive design, and a sc
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedMorabet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMorabet&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMorabet&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedMorabet&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
