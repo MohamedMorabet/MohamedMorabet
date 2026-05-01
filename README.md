@@ -153,12 +153,14 @@ Dynamic rental application with smart booking logic, responsive design, and a sc
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMorabet&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedMorabet&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedMorabet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMorabet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedMorabet&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MohamedMorabet&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedMorabet&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
