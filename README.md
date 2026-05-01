@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/mel-mora">
-    <img src="https://badge.mediaplus.ma/black/mel-mora" alt="42 stats" />
+    <img src="https://badge.mediaplus.ma/black/mel-mora" alt="mel-mora's 42 stats" />
   </a>
 </p>
 
