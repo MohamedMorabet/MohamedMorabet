@@ -27,10 +27,6 @@ My journey blends **low-level systems programming** — C, memory management, UN
 
 For me, engineering is a craft. It lives at the intersection of **logic, creativity, and continuous learning**.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer at work" />
-</p>
-
 ---
 
 ## 🎯 Currently
